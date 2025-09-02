@@ -14,7 +14,7 @@ This repository contains a collection of Java programs that demonstrate the use 
 ## Medium Problems
 | Problem | Solution |
 |---------|----------|
-| [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [Java Solution](./Medium/Pow(x, n).java) |
+| [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [Java Solution](./Medium/Powx-n.java) |
 | []() | [Java Solution](./Medium/filename.java) |
 
 ## Hard Problems

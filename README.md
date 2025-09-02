@@ -12,8 +12,12 @@ This repository contains a collection of Java programs that demonstrate the use 
 | []() | [Java Solution](./Easy/filename.java) |
 
 ## Medium Problems
+| Problem | Solution |
+|---------|----------|
 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [Java Solution](./Medium/Pow(x, n).java) |
 | []() | [Java Solution](./Medium/filename.java) |
 
 ## Hard Problems
+| Problem | Solution |
+|---------|----------|
 | []() | [Java Solution](./Hard/filename.java) |

@@ -4,7 +4,7 @@ This repository contains a collection of Java programs that demonstrate the use 
 ## Easy Problems
 | Problem | Solution |
 |---------|----------|
-| [Print N to 1 without loop](https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1) | [Java Solution](./Easy/PrintNto1withoutloop.java) |
+| [Print N to 1 without loop](https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1) | [Java Solution](./Easy/PrintNto1.java) |
 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Java Solution](./Easy/FibonacciNumber.java) |
 | [Power of Two](https://leetcode.com/problems/power-of-two/description/) | [Java Solution](./Easy/PowerofTwo.java) |
 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Java Solution](./Easy/ReverseString.java) |

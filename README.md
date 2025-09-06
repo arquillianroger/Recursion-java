@@ -16,8 +16,8 @@ This repository contains a collection of Java programs that demonstrate the use 
 |---------|----------|
 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [Java Solution](./Medium/Powx-n.java) |
 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/) | [Java Solution](./Medium/CountGoodNumbers.java) |
+| [Combinations](https://leetcode.com/problems/combinations/description/) | [Java Solution](0077-combinations/0077-combinations.java) |
 | []() | [Java Solution](./Medium/filename.java) |
-
 ## Hard Problems
 | Problem | Solution |
 |---------|----------|
